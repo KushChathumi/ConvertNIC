@@ -1,0 +1,14 @@
+{
+  "name": "nic-module",
+  "version": "1.0.0",
+  "description": "Old NIC Number Convert to the New NIC Number",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nic"
+  ],
+  "author": "Kushani Abeysinghe and Udara Wijesuriya",
+  "license": "ISC"
+}
